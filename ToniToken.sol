@@ -1,5 +1,7 @@
 /*
 https://scan.pulsechain.com/address/0x9F8182aD65c53Fd78bd07648a1b3DDcB675c6772
+https://www.dextools.io/app/en/pulse/pair-explorer/0x10a639e1860410b075b877e0bebe163f26377a40
+https://app.pulsex.com/info/pool/0x10a639e1860410b075b877e0bebe163f26377a40
 */
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
